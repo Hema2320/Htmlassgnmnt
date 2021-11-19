@@ -1,0 +1,16 @@
+*{
+    border-radius: 6px;
+}
+#align{
+    position: fixed;
+    left: 190px;
+    
+}
+#align2{
+    position:fixed;
+    left: 190px;
+}
+#align3{
+    position: fixed;
+    left:380px
+}
